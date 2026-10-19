@@ -1,0 +1,2 @@
+# premium-etching-met-001-metal-etching-resist-and-bath
+Stop guessing why your last etch failed. Track every variable—resist type, bath temperature, concentration, and time—so you never ruin another piece of metal.  The Metal Etching Resist and Bath Log gives you a structured Notion database to log each etching session with precision. No more scrap notes or forgotten recipes—replicate your best results
